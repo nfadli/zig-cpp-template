@@ -1,0 +1,11 @@
+[
+  {
+    "directory": "/home/mor/Local/tempalte-zig-cpp",
+    "file": "src/main.cpp",
+    "arguments": [
+      "clang++",
+      "-std=c++23",
+      "src/main.cpp"
+    ]
+  }
+]
